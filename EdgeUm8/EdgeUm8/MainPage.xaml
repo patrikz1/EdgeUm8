@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="EdgeUm8.MainPage">
-
+    
     <StackLayout>
         <Button Text="Lediga" Clicked="Button_Clicked"/>
         <Button Text="Bokningar" Clicked="Button_Clicked_1"/>
