@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="EdgeUm8.Profile"
+             BackgroundColor="#2E1FE3">
+
+    <Grid RowSpacing="25">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*" />
+
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.3*" />
+            <RowDefinition Height="0.3*" />
+            <RowDefinition Height="0.3*" />
+
+            <RowDefinition Height="0.7*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*" />
+
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+
+            <ColumnDefinition Width="0.2*" />
+        </Grid.ColumnDefinitions>
+
+        <Button Text="Meny" BorderWidth="1.5" BorderColor="#000000" Grid.Row="1" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="70" HeightRequest="70"/>
+        <Button Text="User" BorderWidth="1.5" BorderColor="#000000" Grid.Row="1" Grid.Column="2" VerticalOptions="Start" HorizontalOptions="End" WidthRequest="70" HeightRequest="70" CornerRadius="100"/>
+
+
+        <Button Text="Redigera info" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button Text="Kontakta admin" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button Text="Radera Konto" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</ContentPage>
