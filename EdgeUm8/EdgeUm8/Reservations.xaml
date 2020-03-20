@@ -4,12 +4,44 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="EdgeUm8.Reservations">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+             x:Class="EdgeUm8.Reservations"
+             BackgroundColor="#2E1FE3">
+
+
+    <Grid RowSpacing="25">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*" />
+
+                <RowDefinition Height="*" />
+                <RowDefinition Height="0.3*" />
+
+                <RowDefinition Height="0.7*" />
+                <RowDefinition Height="0.7*" />
+                <RowDefinition Height="0.7*" />
+
+            <RowDefinition Height="0.4*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*" />
+
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+
+            <ColumnDefinition Width="0.2*" />
+        </Grid.ColumnDefinitions>
+
+        <Button Text="Meny" BorderWidth="1.5" BorderColor="#000000" Grid.Row="1" Grid.Column="1" VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="70" HeightRequest="70"/>
+        <Button Text="User" BorderWidth="1.5" BorderColor="#000000" Grid.Row="1" Grid.Column="2" VerticalOptions="Start" HorizontalOptions="End" WidthRequest="70" HeightRequest="70" CornerRadius="100" Clicked="Button_Clicked"/>
+        <Label TextColor="AntiqueWhite" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" TextDecorations="Underline" FontSize="Title">Mina Bokningar</Label>
+
+
+        <ListView Grid.Row="3" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite">
+            <!--Gör 3 stycken kolumner i listview på något sätt-->
+        </ListView>
+    
+    </Grid>
+
+
 </ContentPage>
