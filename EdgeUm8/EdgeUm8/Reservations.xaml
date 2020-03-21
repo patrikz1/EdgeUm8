@@ -38,7 +38,8 @@
 
 
         <ListView Grid.Row="3" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite">
-            <!--Gör 3 stycken kolumner i listview på något sätt-->
+            <!--Gör 3 stycken kolumner i listview på något sätt(med buttons)
+            kräver kanske ett till namespace som xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml/presentation"-->
         </ListView>
     
     </Grid>
