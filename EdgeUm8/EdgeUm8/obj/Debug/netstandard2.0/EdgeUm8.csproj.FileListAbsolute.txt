@@ -17,3 +17,4 @@ C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Fr
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Reservations.xaml.g.cs
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Profile.xaml.g.cs
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\AdvFreeTimes.xaml.g.cs
