@@ -14,7 +14,7 @@
 
             <RowDefinition Height="*" />
             <RowDefinition Height="0.4*" />
-            <RowDefinition Height="0.5*" /> <!--på denna rad ska comboboxen vara, krävs kanske namespace som där nere (kolla upp)-->
+            <RowDefinition Height="0.5*" />
 
             <RowDefinition Height="0.7*" />
             <RowDefinition Height="0.7*" />
@@ -51,8 +51,9 @@
 
         
         <ListView Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite">
-            <!--Gör 3 stycken kolumner i listview på något sätt (med buttons)
-            kräver kanske ett till namespace som xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml/presentation" -->
+            <!--Gör 3 stycken kolumner i listview på något sätt (kanske med buttons) eller att vi skippar buttons (som jag tkr) och kör på selected items sen när man gör en onclick på den så bokar man den.. fuck buttons
+            
+            Samt filtrera namn och tider osv redan i iCal protokollet lr nåt och dubbelkolla mot bokade tider i databasen sen displaya dom här   -->
         </ListView>
 
         <Label TextColor="AntiqueWhite" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" TextDecorations="Underline" FontSize="Medium">
