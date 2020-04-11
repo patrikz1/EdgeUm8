@@ -1018,24 +1018,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Patrik\\.nuget\\packages\\": {},
+    "C:\\Users\\Filip\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patrik\\Source\\Repos\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\EdgeUm8.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Filip\\Documents\\GitHub\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\EdgeUm8.iOS.csproj",
       "projectName": "EdgeUm8.iOS",
-      "projectPath": "C:\\Users\\Patrik\\Source\\Repos\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\EdgeUm8.iOS.csproj",
-      "packagesPath": "C:\\Users\\Patrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patrik\\Source\\Repos\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\EdgeUm8.iOS.csproj",
+      "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Filip\\Documents\\GitHub\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Patrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1049,8 +1049,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Patrik\\Source\\Repos\\EdgeUm8\\EdgeUm8\\EdgeUm8\\EdgeUm8.csproj": {
-              "projectPath": "C:\\Users\\Patrik\\Source\\Repos\\EdgeUm8\\EdgeUm8\\EdgeUm8\\EdgeUm8.csproj"
+            "C:\\Users\\Filip\\Documents\\GitHub\\EdgeUm8\\EdgeUm8\\EdgeUm8\\EdgeUm8.csproj": {
+              "projectPath": "C:\\Users\\Filip\\Documents\\GitHub\\EdgeUm8\\EdgeUm8\\EdgeUm8\\EdgeUm8.csproj"
             }
           }
         }

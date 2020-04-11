@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7e2PBC9nvjjDCX5V1YiKkPQo1X0h9xRJByVFF3A5DnFSVfycx/0W+a0EE3cb7rFCwpx+sld6NiL3c1v/gTP0rg==",
+  "dgSpecHash": "ouBbMw/GntML5uDVxOVtdVRquaq4oawtDaDfKxacokslnvqa0LNAsfjccRlHy9/G63KkJlAqnMEv19c05OxDig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrik\\Source\\Repos\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\EdgeUm8.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Filip\\Documents\\GitHub\\EdgeUm8\\EdgeUm8\\EdgeUm8.iOS\\EdgeUm8.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Patrik\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\Filip\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }
