@@ -15,7 +15,6 @@ namespace EdgeUm8
         public FreeTimes()
         {
             InitializeComponent();
-            new Master();
         }
 
         private async void Button_Clicked(object sender, EventArgs e)
