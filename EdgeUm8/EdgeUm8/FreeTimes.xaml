@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:EdgeUm8"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
@@ -50,10 +51,63 @@
         </Picker>
 
         
-        <ListView Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite">
-            <!--Gör 3 stycken kolumner i listview på något sätt (kanske med buttons) eller att vi skippar buttons (som jag tkr) och kör på selected items sen när man gör en onclick på den så bokar man den.. fuck buttons
-            
-            Samt filtrera namn och tider osv redan i iCal protokollet lr nåt och dubbelkolla mot bokade tider i databasen sen displaya dom här   -->
+        <ListView Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite" Margin="0,20,0,0">
+            <!--Header för ListView.-->
+            <ListView.Header>
+                <Grid HorizontalOptions="FillAndExpand">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    
+                    <Label Text="Sal:" TextColor="Black" BackgroundColor="AntiqueWhite" FontSize="Large" Grid.Column="0" Margin="15,0,0,0"/>
+                    <Label Text="Från:" TextColor="Black" BackgroundColor="AntiqueWhite" FontSize="Large" Grid.Column="1" Margin="15,0,0,0"/>
+                    <Label Text="Till:" TextColor="Black" BackgroundColor="AntiqueWhite" FontSize="Large" Grid.Column="2" Margin="15,0,0,0"/>
+                    
+                </Grid>
+                
+                    
+               
+            </ListView.Header>
+            <!--Exempeldata i ListView, kommer tas bort.-->
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:Room}">
+                    <local:Room sal="N200" fran="1000" till="1300"/>
+                    <local:Room sal="N250" fran="1200" till="1600"/>
+                    <local:Room sal="N270" fran="1300" till="1700"/>
+                    <local:Room sal="N205" fran="1400" till="1800"/>
+                    <local:Room sal="N206" fran="1700" till="1900"/>
+                    <local:Room sal="N201" fran="2000" till="2100"/>
+
+                </x:Array>
+
+            </ListView.ItemsSource>
+            <!--En template på hur varje rad i ListView kommer att se ut. Använder Tapped på ViewCell för att hantera event när man tycker på rad i listview.-->
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell Tapped="ViewCell_Tapped">
+
+                        <Grid HorizontalOptions="FillAndExpand">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+
+                            <Label Text="{Binding sal}" FontSize="Large" HorizontalOptions="FillAndExpand" Grid.Column="0" Margin="15,0,0,0"></Label>
+                            <Label Text="{Binding fran}" FontSize="Large" HorizontalOptions="FillAndExpand"  Grid.Column="1" Margin="15,0,0,0"></Label>
+                            <Label Text="{Binding till}" FontSize="Large" HorizontalOptions="FillAndExpand"  Grid.Column="2" Margin="15,0,0,0"></Label>
+                        </Grid>
+
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <!--Filtrera namn och tider osv redan i iCal protokollet lr nåt och dubbelkolla mot bokade tider i databasen sen displaya dom här.-->
         </ListView>
 
         <Label TextColor="AntiqueWhite" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" TextDecorations="Underline" FontSize="Medium">
