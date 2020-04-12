@@ -19,7 +19,9 @@ namespace EdgeUm8
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Master());            
+            Navigation.InsertPageBefore(new Master(), this);
+            await Navigation.PopAsync();
+            Application.Current.MainPage = new Master();
         }
     }
 }
