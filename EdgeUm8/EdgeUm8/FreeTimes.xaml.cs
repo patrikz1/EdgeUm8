@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace EdgeUm8
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class FreeTimes : ContentPage
+    public partial class FreeTimes : ContentPage 
     {
         public FreeTimes()
         {
