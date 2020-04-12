@@ -18,3 +18,6 @@ C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Re
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Profile.xaml.g.cs
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Login.xaml.g.cs
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\AdvFreeTimes.xaml.g.cs
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\Master.xaml.g.cs
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\MasterDetail.xaml.g.cs
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8\obj\Debug\netstandard2.0\MasterMaster.xaml.g.cs

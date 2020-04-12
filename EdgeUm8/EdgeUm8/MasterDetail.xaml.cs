@@ -10,16 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace EdgeUm8
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Login : ContentPage
+    public partial class MasterDetail : ContentPage
     {
-        public Login()
+        public MasterDetail()
         {
             InitializeComponent();
-        }
-
-        private async void Button_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new Master());            
         }
     }
 }
