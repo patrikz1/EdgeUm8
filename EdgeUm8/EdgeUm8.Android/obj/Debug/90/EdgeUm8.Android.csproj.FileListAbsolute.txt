@@ -952,4 +952,4 @@ C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\sta
 C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\drawable\profile.png
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-hdpi\profile.png
