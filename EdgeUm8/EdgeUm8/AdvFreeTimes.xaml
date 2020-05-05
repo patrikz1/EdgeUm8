@@ -9,8 +9,17 @@
              BackgroundColor="#2E1FE3">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Profile"    
-                     Clicked="ToolbarItem_Clicked"/>
+        <ToolbarItem Clicked="ToolbarItem_Clicked"
+                     Priority="0"
+                     Order="Primary"
+                     Text="Profilsida"
+                     />
+
+        <ToolbarItem Clicked="ToolbarItem_Clicked"
+                     Priority="1"
+                     IconImageSource="profile.png"
+                     Order="Primary"
+                     />
     </ContentPage.ToolbarItems>
 
     <Grid RowSpacing="25">
