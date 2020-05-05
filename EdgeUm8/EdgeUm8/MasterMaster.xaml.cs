@@ -19,13 +19,12 @@ namespace EdgeUm8
 
         public MasterMaster()
         {
+ 
             InitializeComponent();
 
             BindingContext = new MasterMasterViewModel();
             ListView = MenuItemsListView;
 
-
-           
         }
 
         class MasterMasterViewModel : INotifyPropertyChanged
@@ -55,5 +54,12 @@ namespace EdgeUm8
             }
             #endregion
         }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            Application.Current.MainPage = new NavigationPage(new Login());
+            await Navigation.PushAsync(new Login());
+        }
+
     }
 }

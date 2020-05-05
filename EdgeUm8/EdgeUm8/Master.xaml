@@ -6,16 +6,18 @@
              mc:Ignorable="d"
              x:Class="EdgeUm8.Master"
              xmlns:pages="clr-namespace:EdgeUm8"
-             MasterBehavior="Popover">
-  <MasterDetailPage.Master>
-    <pages:MasterMaster x:Name="MasterPage" />
-  </MasterDetailPage.Master>
-  <MasterDetailPage.Detail>
-    <NavigationPage>
-      <x:Arguments>
-        <pages:MainPage/>
-      </x:Arguments>
-    </NavigationPage>
-  </MasterDetailPage.Detail>
-    
+             MasterBehavior="Popover"
+                            >
+    <MasterDetailPage.Master>
+        <pages:MasterMaster x:Name="MasterPage"/>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <NavigationPage Title="FirstPage">
+            <x:Arguments>
+                <pages:MainPage/>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+
 </MasterDetailPage>

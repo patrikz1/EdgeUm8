@@ -36,5 +36,11 @@ namespace EdgeUm8
             await Navigation.PushAsync(new Profile());
 
         }
+
+        private async void ToolbarItem_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Profile());
+
+        }
     }
 }
