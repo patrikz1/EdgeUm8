@@ -10,8 +10,7 @@
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Profile"    
-                     Clicked="ToolbarItem_Clicked"
-                     IconImageSource="profile.png"/>
+                     Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
     <Grid RowSpacing="25">
 
