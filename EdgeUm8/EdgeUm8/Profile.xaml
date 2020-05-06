@@ -12,7 +12,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="0.3*" />
 
-            <RowDefinition Height="*" />
+            <RowDefinition Height="0.4*" />
             <RowDefinition Height="0.3*" />
             <RowDefinition Height="0.3*" />
             <RowDefinition Height="0.3*" />
@@ -29,6 +29,7 @@
             <ColumnDefinition Width="0.2*" />
         </Grid.ColumnDefinitions>
 
+        <Label TextColor="AntiqueWhite" TextDecorations="Underline" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" HorizontalOptions="Center" FontSize="Title">Profilsida</Label>
 
         <Button Text="Redigera info" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2"/>
         <Button Text="Kontakta admin" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2"/>

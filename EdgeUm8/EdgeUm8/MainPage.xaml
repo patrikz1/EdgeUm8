@@ -27,7 +27,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="0.3*" />
 
-                <RowDefinition Height="*" />
+                <RowDefinition Height="0.4*" />
                 <RowDefinition Height="0.3*" />
                 <RowDefinition Height="0.3*" />
                 <RowDefinition Height="0.3*" />
@@ -44,7 +44,8 @@
             <ColumnDefinition Width="0.2*" />
         </Grid.ColumnDefinitions>
 
-
+        <Label TextColor="AntiqueWhite" TextDecorations="Underline" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" HorizontalOptions="Center" FontSize="Title">Startsida</Label>
+        
         <Button Text="Lediga" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Clicked="Button_Clicked"/>
         <Button Text="Bokningar" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Clicked="Button_Clicked_1"/>
         <Button Text="Favoriter" BorderWidth="2" BorderColor="#000000" CornerRadius="20" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Clicked="Button_Clicked_2"/>
