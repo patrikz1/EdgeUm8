@@ -32,7 +32,13 @@
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AndroidLinkMode>None</AndroidLinkMode>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidTlsProvider>btls</AndroidTlsProvider>
+    <MandroidI18n />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -54,10 +60,17 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>12.0.2</Version>
+    </PackageReference>
+    <PackageReference Include="sqlite-net-pcl">
+      <Version>1.6.292</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\GetSQLiteConnection.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -85,15 +98,14 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\EdgeUm8\EdgeUm8.csproj">
-      <Project>{CE089B03-98B5-407D-8623-7EF727BFCC07}</Project>
-      <Name>EdgeUm8</Name>
-    </ProjectReference>
+    <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\profile.png" />
+    <ProjectReference Include="..\EdgeUm8\EdgeUm8.csproj">
+      <Project>{ffae34cd-8ce7-47f4-8ffe-c923a771ddac}</Project>
+      <Name>EdgeUm8</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

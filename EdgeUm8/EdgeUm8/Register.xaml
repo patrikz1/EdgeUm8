@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local11="clr-namespace:EdgeUm8.Data"
+             mc:Ignorable="d"
+             x:Class="EdgeUm8.Register">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+
+            <Color x:Key="LightGreenColor">#2FA999</Color>
+            <Color x:Key="BorderColor">#D8D8D8</Color>
+
+            <Style x:Key="LableStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="#666666" />
+                <Setter Property="FontSize" Value="Large" />
+            </Style>
+            <Style x:Key="FrameStyle" TargetType="Frame">
+                <Setter Property="HasShadow" Value="False" />
+                <Setter Property="Padding" Value="0" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="BorderColor" Value="{StaticResource BorderColor}" />
+            </Style>
+            <Style x:Key="EntryStyle" TargetType="Entry">
+                <Setter Property="HeightRequest" Value="40"></Setter>
+                <Setter Property="Margin" Value="5,0,0,0"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Margin="20,0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+
+        <Frame HasShadow="False" CornerRadius="5" BorderColor="{StaticResource BorderColor}" BackgroundColor="#F7F7F7">
+
+            <StackLayout>
+                <Label Style="{StaticResource LableStyle}" Text="@studentmail.ORU e-mail"></Label>
+                <Frame Style="{StaticResource FrameStyle}">
+                    <Entry x:Name="txtEmail" ReturnType="Next" Style="{StaticResource EntryStyle}">
+                        <Entry.Behaviors>
+
+                            <local11:EmailValidation></local11:EmailValidation>
+
+                        </Entry.Behaviors>
+                    </Entry>
+                </Frame>
+                <Label Style="{StaticResource LableStyle}" Text="Desired UserName" />
+                <Frame Style="{StaticResource FrameStyle}">
+                    <Entry x:Name="txtUserName" ReturnType="Next" Keyboard="Text" Style="{StaticResource EntryStyle}"></Entry>
+                </Frame>
+                <Label Style="{StaticResource LableStyle}" Text="Desired Password"></Label>
+                <Frame Style="{StaticResource FrameStyle}">
+                    <Entry IsPassword="True" x:Name="txtDesiredPassword" ReturnType="Next" Style="{StaticResource EntryStyle}">
+                        <Entry.Behaviors>
+
+                            <local11:PasswordValidation></local11:PasswordValidation>
+
+                        </Entry.Behaviors>
+                    </Entry>
+                </Frame>
+                <Label Style="{StaticResource LableStyle}" Text="Confirm Password"></Label>
+                <Frame Style="{StaticResource FrameStyle}">
+                    <Entry IsPassword="True" x:Name="txtConfirmPassword" Style="{StaticResource EntryStyle}"></Entry>
+                </Frame>
+                <Label x:Name="warningLabel" Text="" IsVisible="False" TextColor="Blue" FontSize="15" BackgroundColor="Transparent" FlexLayout.AlignSelf="End"/>
+                <Button Margin="100,20" BorderRadius="8" WidthRequest="200" CornerRadius="30" TextColor="White" BackgroundColor="#000000" Text="Register" Clicked="Register_Button_Clicked"></Button>
+
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

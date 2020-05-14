@@ -8,26 +8,13 @@
              x:Class="EdgeUm8.Reservations"
              BackgroundColor="#2E1FE3">
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Clicked="ToolbarItem_Clicked"
-                     Priority="0"
-                     Order="Primary"
-                     Text="Profilsida"
-                     />
 
-        <ToolbarItem Clicked="ToolbarItem_Clicked"
-                     Priority="1"
-                     IconImageSource="profile.png"
-                     Order="Primary"
-                     />
-    </ContentPage.ToolbarItems>
-    
     <Grid RowSpacing="25">
 
         <Grid.RowDefinitions>
-            <RowDefinition Height="0.2*" />
+            <RowDefinition Height="0.3*" />
 
-                <RowDefinition Height="0.1*" />
+                <RowDefinition Height="*" />
                 <RowDefinition Height="0.3*" />
 
                 <RowDefinition Height="0.7*" />
@@ -46,7 +33,8 @@
             <ColumnDefinition Width="0.2*" />
         </Grid.ColumnDefinitions>
 
-        <Label TextColor="AntiqueWhite" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" TextDecorations="Underline" FontSize="Title">Mina bokningar</Label>
+        <Button Text="Profile" BorderWidth="1.5" BorderColor="#000000" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="100" HeightRequest="40" CornerRadius="100" Clicked="Button_Clicked"/>
+        <Label TextColor="AntiqueWhite" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" TextDecorations="Underline" FontSize="Title">Mina Bokningar</Label>
 
 
         <ListView Grid.Row="3" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite">
