@@ -43,7 +43,9 @@
                 <Frame Style="{StaticResource FrameStyle}">
                     <Entry IsPassword="True" x:Name="txtPassword" Style="{StaticResource EntryStyle}"></Entry>
                 </Frame>
-                <Button Margin="100,20" BorderRadius="8" WidthRequest="200" CornerRadius="30" TextColor="White" BackgroundColor="#000000" Text="Login" Clicked="Button_Clicked"></Button>
+                <Button Margin="100,20" BorderRadius="8" WidthRequest="200" CornerRadius="30" TextColor="White" BackgroundColor="#000000" Text="Login" Clicked="Login_Button_Clicked"></Button>
+                <Button Margin="100,20" BorderRadius="8" WidthRequest="200" CornerRadius="30" TextColor="White" BackgroundColor="#000000" Text="Register" Clicked="Register_Button_Clicked"></Button>
+                
             </StackLayout>
         </Frame>
     </StackLayout>

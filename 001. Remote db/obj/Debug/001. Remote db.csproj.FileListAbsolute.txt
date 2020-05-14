@@ -1,0 +1,2 @@
+C:\Users\Orre B\source\repos\EdgeUm8\001. Remote db\obj\Debug\001. Remote db.csprojAssemblyReference.cache
+C:\Users\Orre B\source\repos\EdgeUm8\001. Remote db\obj\Debug\001. Remote db.csproj.CoreCompileInputs.cache

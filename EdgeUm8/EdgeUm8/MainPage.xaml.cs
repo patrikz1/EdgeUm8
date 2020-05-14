@@ -13,10 +13,9 @@ namespace EdgeUm8
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
-
         public MainPage()
         {
-            InitializeComponent();            
+            InitializeComponent();
         }
 
         private async void Button_Clicked(object sender, EventArgs e)
@@ -35,8 +34,7 @@ namespace EdgeUm8
 
         }
 
-
-        private async void ToolbarItem_Clicked(object sender, EventArgs e)
+        private async void Button_Clicked_3(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new Profile());
 

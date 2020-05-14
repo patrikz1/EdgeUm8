@@ -15,7 +15,11 @@
   ~ limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="android.arch.lifecycle.viewmodel" >
+=======
+    package="android.arch.lifecycle.livedata.core" >
+>>>>>>> pr/3
 
     <uses-sdk android:minSdkVersion="14" />
 

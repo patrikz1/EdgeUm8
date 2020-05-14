@@ -13,12 +13,28 @@ C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res.flag
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\65CABCFDA9EA36AB.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\218ED334BCEA2B93.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\319F6E11EBEA5F73.stamp
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E2B7E0B56ACCA008.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\99C62AC0AD8DCC6A.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\A5ABAF801FAFF8E5.stamp
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\2D23711234AFC295.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\69671EDB21AFDFAD.stamp
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\B5BA12A548AF8C05.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\EE1A4293E289490E.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\AA5E2D5AF7895436.stamp
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\65CABCFDA9EA36AB.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\218ED334BCEA2B93.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\319F6E11EBEA5F73.flata
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E2B7E0B56ACCA008.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\99C62AC0AD8DCC6A.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\A5ABAF801FAFF8E5.flata
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\2D23711234AFC295.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\69671EDB21AFDFAD.flata
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\B5BA12A548AF8C05.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\EE1A4293E289490E.flata
+C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\AA5E2D5AF7895436.flata
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\compiled.flata
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\R.txt
 C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\R.cs.flag
@@ -936,103 +952,1009 @@ C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\sta
 C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Filip\Documents\GitHub\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\drawable\profile.png
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\6B61066A717AF484.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\A7ADB7314F7AD3CC.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\FD53DF4AD5EA783B.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\B917B083C0EA6503.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\451B26BEC48D9FC2.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\4AEEA4642CAB3311.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\F1FE7D6C5DAF913D.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\3D32CC3763AFB675.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\D9641F4777439EB9.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\9D20708E62438381.stamp
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\6B61066A717AF484.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\A7ADB7314F7AD3CC.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\FD53DF4AD5EA783B.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\B917B083C0EA6503.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\451B26BEC48D9FC2.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\4AEEA4642CAB3311.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\F1FE7D6C5DAF913D.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\3D32CC3763AFB675.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\D9641F4777439EB9.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\9D20708E62438381.flata
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.Android.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Syncfusion.Core.XForms.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Syncfusion.Licensing.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Syncfusion.SfSchedule.XForms.Android.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Syncfusion.SfSchedule.XForms.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Collections.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Linq.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Reflection.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc640879981a986d658b\SfGradientViewRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643ddf594df781e5ec\SfBorderRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutBorder.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutBorderRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\InputLayoutToggleViewRenderer_GestureListener.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc644103bb497e895a1b\SfTextInputLayoutRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AlldayAnimation.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AllDayAppointmentContainer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AllDayAppointmentLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AllDayCountLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AllDayExpanderButton.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AllDayScrollView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AppointmentLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\AppointmentView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\ContentView_2.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\CustomHorizontalViewScroller.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\CustomScrollViewer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\CustomTextView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\DayAppointmentLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\DayView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\DayViewLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\DividerView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\DraggingShadowBuilder.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\HeaderView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\HorizontalLinearLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\InlineAppointmentLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\InlineAppointmentView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\InlineAppointmentViewContainer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\InlineView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\InlineViewContainer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthAppointmentLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthAppointmentView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthCell.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthRowLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthSelectionLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\MonthViewHeaderLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\NonAccessBlock.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\NonAccessibleBlockLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\ParentDayLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\ResourceContainer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\ResourceItemView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\SelectionLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\SfSchedule.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\StripesView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TapGestureListener.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimeLabelTextLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimelineScrollViewer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimelineVerticalScrollViewer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimelineViewContainer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimelineViewHeader.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimelineViewHeaderCell.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimelineViewLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\TimeSlotLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\VerticalLinearLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\ViewHeaderCell.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\ViewHeaderLayout.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64784c09f2ef1bdefd\WeekNumberView.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64c16fe6afaa7ee250\SfScheduleExt.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64eeb36180fe6023e2\GestureListener.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64eeb36180fe6023e2\SfEffectsViewRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64f3c04da23e275e70\SfScheduleRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64f606ab658bf2774f\SfShimmerRenderer.java
-C:\Users\Patrik\Source\Repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64f606ab658bf2774f\ShimmerViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.Android.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.Android.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8.apk
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8.aab
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8-Signed.aab
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8-Signed.apk
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\build.props
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\adb.props
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.csprojAssemblyReference.cache
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res.flag
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\7EFE4A97C6797943.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\A17B6615CF1A6F3E.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E53F09DCDA1A7206.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\7EFE4A97C6797943.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\A17B6615CF1A6F3E.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E53F09DCDA1A7206.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\R.txt
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\R.cs.flag
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.csproj.CoreCompileInputs.cache
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.csproj.CopyComplete
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\com.companyname.edgeum8.apk
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\com.companyname.edgeum8.aab
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\com.companyname.edgeum8.apks
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.Android.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.Android.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\__environment__.txt
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\static.flag
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\buildid.txt
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64cb663ee9f73ec5dc\MainActivity.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\com\companyname\edgeum8\R.java
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E992ABFA525F9B00.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\C6B6B363D71E9EBA.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\5E2FD0D4AB1ED02A.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\AE8EE4CF273CC3ED.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\BE9F59EA703CB70D.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\361787785B3C8D7D.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\5AC98A9A64D09FC1.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\861486E40DD0CC69.stamp
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E992ABFA525F9B00.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\C6B6B363D71E9EBA.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\5E2FD0D4AB1ED02A.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\AE8EE4CF273CC3ED.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\BE9F59EA703CB70D.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\361787785B3C8D7D.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\5AC98A9A64D09FC1.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\861486E40DD0CC69.flata
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Microsoft.CSharp.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Microsoft.CSharp.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLiteNetExtensions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLiteNetExtensions.pdb
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.Primitives.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Text.Encoding.Extensions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Text.RegularExpressions.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\Orre B\Downloads\EdgeUm8-master(1)\EdgeUm8-master\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.XDocument.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.Android.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.Android.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8.apk
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8.aab
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8-Signed.aab
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\com.companyname.edgeum8-Signed.apk
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\bin\Debug\EdgeUm8.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\build.props
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\adb.props
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.csprojAssemblyReference.cache
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res.flag
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\C1C20934C2AFA23A.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\56AEE85956894079.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\798AF0C0D3C845C3.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E1139377AFC80B53.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\11B2A76C23EA1894.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\01A31A4974EA6C74.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\892BC4DB5FEA5604.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\1E4725B6CBCCB447.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\5A034A7FDECCA97F.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E5F5C939600644B8.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\3928C54709061710.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\C1C20934C2AFA23A.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\56AEE85956894079.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\798AF0C0D3C845C3.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E1139377AFC80B53.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\11B2A76C23EA1894.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\01A31A4974EA6C74.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\892BC4DB5FEA5604.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\1E4725B6CBCCB447.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\5A034A7FDECCA97F.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\E5F5C939600644B8.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\3928C54709061710.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\flata\compiled.flata
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\R.txt
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\R.cs.flag
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.csproj.CoreCompileInputs.cache
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.csproj.CopyComplete
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\EdgeUm8.Android.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\com.companyname.edgeum8.apk
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\com.companyname.edgeum8.aab
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\com.companyname.edgeum8.apks
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.Android.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.Android.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\EdgeUm8.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\__environment__.txt
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\static.flag
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\buildid.txt
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64cb663ee9f73ec5dc\MainActivity.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\src\com\companyname\edgeum8\R.java
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLiteNetExtensions.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLiteNetExtensions.pdb
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Orre B\source\repos\EdgeUm8\EdgeUm8\EdgeUm8.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll

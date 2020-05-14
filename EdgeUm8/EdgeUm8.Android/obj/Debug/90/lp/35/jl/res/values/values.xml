@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <attr format="reference" name="cardViewStyle"/>
     <color name="cardview_dark_background">#FF424242</color>
     <color name="cardview_light_background">#FFFFFFFF</color>
@@ -51,4 +52,16 @@
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
+=======
+    <item name="ghost_view" type="id"/>
+    <item name="parent_matrix" type="id"/>
+    <item name="save_image_matrix" type="id"/>
+    <item name="save_non_transition_alpha" type="id"/>
+    <item name="save_scale_type" type="id"/>
+    <item name="transition_current_scene" type="id"/>
+    <item name="transition_layout_save" type="id"/>
+    <item name="transition_position" type="id"/>
+    <item name="transition_scene_layoutid_cache" type="id"/>
+    <item name="transition_transform" type="id"/>
+>>>>>>> pr/3
 </resources>

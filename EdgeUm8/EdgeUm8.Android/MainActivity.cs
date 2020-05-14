@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using System.Net.Http;
 
 namespace EdgeUm8.Droid
 {
@@ -29,5 +30,16 @@ namespace EdgeUm8.Droid
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
+        public HttpClientHandler GetInsecureHandler() {
+            HttpClientHandler handler = new HttpClientHandler();
+            handler.ServerCertificateCustomValidationCallback = (message, cert, chain, errors) =>
+            {
+                if (cert.Issuer.Equals("CN=localhost"))
+                    return true;
+                return errors == System.Net.Security.SslPolicyErrors.None;
+            };
+            return handler;
+        }
     }
+
 }
