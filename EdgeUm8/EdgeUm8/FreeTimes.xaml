@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:EdgeUm8"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:schedule="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms"
              mc:Ignorable="d"
              x:Class="EdgeUm8.FreeTimes"
              BackgroundColor="#2E1FE3">
@@ -63,8 +64,8 @@
         </Picker>
 
         
-        <ListView Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite" Margin="0,20,0,0">
-            <!--Header för ListView.-->
+        <!--<ListView Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" BackgroundColor="AntiqueWhite" Margin="0,20,0,0">
+            --><!--Header för ListView.--><!--
             <ListView.Header>
                 <Grid HorizontalOptions="FillAndExpand">
                     <Grid.ColumnDefinitions>
@@ -82,7 +83,7 @@
                     
                
             </ListView.Header>
-            <!--Exempeldata i ListView, kommer tas bort.-->
+            --><!--Exempeldata i ListView, kommer tas bort.--><!--
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:Room}">
                     <local:Room sal="N200" fran="1000" till="1300"/>
@@ -95,7 +96,7 @@
                 </x:Array>
 
             </ListView.ItemsSource>
-            <!--En template på hur varje rad i ListView kommer att se ut. Använder Tapped på ViewCell för att hantera event när man tycker på rad i listview.-->
+            --><!--En template på hur varje rad i ListView kommer att se ut. Använder Tapped på ViewCell för att hantera event när man tycker på rad i listview.--><!--
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell Tapped="ViewCell_Tapped">
@@ -119,8 +120,21 @@
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
-            <!--Filtrera namn och tider osv redan i iCal protokollet lr nåt och dubbelkolla mot bokade tider i databasen sen displaya dom här.-->
-        </ListView>
+            --><!--Filtrera namn och tider osv redan i iCal protokollet lr nåt och dubbelkolla mot bokade tider i databasen sen displaya dom här.--><!--
+        </ListView>-->
+
+
+        <schedule:SfSchedule x:Name="schedule" ScheduleView = "DayView" Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" CellDoubleTapped="schedule_CellDoubleTapped" >
+            <schedule:SfSchedule.ViewHeaderStyle>
+                <schedule:ViewHeaderStyle
+                    BackgroundColor="AntiqueWhite"
+		            DayTextColor="#FFFFFF"
+		            DateTextColor="#FFFFFF">
+                </schedule:ViewHeaderStyle>
+            </schedule:SfSchedule.ViewHeaderStyle>
+        </schedule:SfSchedule>
+
+
 
         <Label TextColor="AntiqueWhite" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" TextDecorations="Underline" FontSize="Medium">
             <Label.GestureRecognizers>

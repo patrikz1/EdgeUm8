@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Syncfusion.SfSchedule.XForms;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -45,6 +46,19 @@ namespace EdgeUm8
         private async void ToolbarItem_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new Profile());
+
+        }
+
+        private void schedule_CellDoubleTapped(object sender, Syncfusion.SfSchedule.XForms.CellTappedEventArgs e)
+        {
+            ScheduleAppointmentCollection scheduleAppointmentCollection = new ScheduleAppointmentCollection();
+
+            var scheduleAppointment = new ScheduleAppointment()
+            {
+                StartTime = e.Datetime,
+                EndTime = e.Datetime.AddHours(1),
+            };
+            scheduleAppointmentCollection.Add(scheduleAppointment);
 
         }
     }
